@@ -18,7 +18,8 @@ My goal is to sharpen my Python skills by coding every single day for 30 days �
 | ✅ Day 2 | Day Variables & builtin functions | [`day_2`](./day_2) |
 | ✅ Day 3 | Operators | [`day_3`](./day_3) |
 | ✅ Day 4 | Strings | [`day_4`](./day_4) |
-| 🔜 Day 5+ | Coming soon... | ... |
+| ✅ Day 5 | lists | [`day_5`](./day_5) |
+| 🔜 Day 6+ | Coming soon... | ... |
 
 ---
 
