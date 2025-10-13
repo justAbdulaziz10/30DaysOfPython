@@ -23,7 +23,8 @@ My goal is to sharpen my Python skills by coding every single day for 30 days �
 | ✅ Day 7 | sets | [`day_7`](./day_7) |
 | ✅ Day 8 | dictionary | [`day_8`](./day_8) |
 | ✅ Day 9 | conditionals | [`day_9`](./day_9) |
-| 🔜 Day 10+ | Coming soon... | ... |
+| ✅ Day 10 | loops | [`day_10`](./day_10) |
+| 🔜 Day 11+ | Coming soon... | ... |
 
 ---
 
